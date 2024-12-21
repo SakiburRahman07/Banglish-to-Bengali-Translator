@@ -6,7 +6,7 @@ This README provides detailed instructions for training a machine learning model
 
 Check out our demo video to see the project in action:
 
-[![Project Demo](https://www.youtube.com/watch?v=_e2Zw_VVpAA)
+[Check out our demo video](https://www.youtube.com/watch?v=_e2Zw_VVpAA)
 
 
 
