@@ -2,9 +2,9 @@
 
 This README provides detailed instructions for training a machine learning model to transliterate Banglish (Romanized Bengali) text to Bengali using the Hugging Face Transformers library. The steps include loading the dataset, preprocessing the data, selecting a model, training the model, and testing it with sample inputs.
 
-## Demo
+## Project Output
 
-Check out our demo video to see the project in action:
+Check out this video to see the project in action:
 
 [Check out our demo video](https://www.youtube.com/watch?v=_e2Zw_VVpAA)
 
